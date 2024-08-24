@@ -1,17 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Aimplify Finance Docs](README.md)
+* [Get Started](get-started.md)
 
-## Getting Started
+## Products and Services
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [AI-Driven Data Pipeline Platform](products-and-services/ai-driven-data-pipeline-platform.md)
+* [AI-Powered Spreadsheet Assistant](products-and-services/editor.md)
+* [Voice Trading Order Recorder](products-and-services/markdown.md)
